@@ -1,0 +1,93 @@
+%PDF-1.4
+%цдья
+1 0 obj
+<<
+/Type /Catalog
+/Version /1.4
+/Pages 2 0 R
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Kids [3 0 R]
+/Count 1
+>>
+endobj
+3 0 obj
+<<
+/Type /Page
+/MediaBox [0.0 0.0 595.27563 841.8898]
+/Rotate 90
+/Parent 2 0 R
+/Contents 4 0 R
+/Resources 5 0 R
+>>
+endobj
+4 0 obj
+<<
+/Length 208
+>>
+stream
+0 1 -1 0 595.27563 0 cm
+/F1 12 Tf
+BT
+100 100 Td
+(hello) Tj
+0 100 Td
+(hello) Tj
+100 100 Td
+(hello) Tj
+ET
+98 98 m
+98 312 l
+S
+98 312 m
+227.34399 312 l
+S
+227.34399 312 m
+227.34399 98 l
+S
+227.34399 98 m
+98 98 l
+S
+
+endstream
+endobj
+5 0 obj
+<<
+/Font 6 0 R
+>>
+endobj
+6 0 obj
+<<
+/F1 7 0 R
+>>
+endobj
+7 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+>>
+endobj
+xref
+0 8
+0000000000 65535 f
+0000000015 00000 n
+0000000078 00000 n
+0000000135 00000 n
+0000000265 00000 n
+0000000526 00000 n
+0000000559 00000 n
+0000000590 00000 n
+trailer
+<<
+/Root 1 0 R
+/ID [<C7199306229FD22338DB4E4586E0557C> <C7199306229FD22338DB4E4586E0557C>]
+/Size 8
+>>
+startxref
+687
+%%EOF
